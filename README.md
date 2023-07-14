@@ -10,7 +10,7 @@ This simple web project displays the resolution of the user's viewport. It is bu
 
 ## Demo
 
-You can see a live demo of the project [here](https://example.com).
+You can see a live demo of the project [here](https://viewport-silk.vercel.app/).
 
 ## Installation
 
